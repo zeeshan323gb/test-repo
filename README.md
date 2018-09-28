@@ -1,7 +1,7 @@
 # test-repo
-simple test for learning github
-this is test for development
-this change is only for development
-this is change is necessary for development
+simple test for learning github\n
+Here i have Made some Changes in Index.html file .
+please see these changes.
+hellow
 
 [Demo](http://zeeshan323gb.github.io/test-repo)
